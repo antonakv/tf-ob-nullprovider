@@ -11,6 +11,7 @@ vendor/
 
 .terraform
 *.tfstate*
+.terraform.lock.hcl
 
 Gemfile.lock
 .ruby-version
