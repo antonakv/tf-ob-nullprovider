@@ -1,5 +1,5 @@
 resource "null_resource" "mynull" {
-  # nothing
+  # nothing to do here
 }
 
 output "mynull" {
